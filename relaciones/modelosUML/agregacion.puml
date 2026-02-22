@@ -1,0 +1,8 @@
+@startuml
+
+class Equipo
+class Jugador
+
+Equipo o-- Jugador
+
+@enduml

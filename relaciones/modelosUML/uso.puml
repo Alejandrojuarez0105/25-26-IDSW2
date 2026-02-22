@@ -1,0 +1,8 @@
+@startuml
+
+class Factura
+class Impresora
+
+Factura ..> Impresora
+
+@enduml

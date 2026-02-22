@@ -1,0 +1,8 @@
+@startuml
+
+class Profesor
+class Curso
+
+Profesor -- Curso
+
+@enduml
